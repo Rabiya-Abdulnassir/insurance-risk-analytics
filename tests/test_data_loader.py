@@ -9,4 +9,3 @@ def test_load_data():
 
     assert len(df) > 0
 
-    
