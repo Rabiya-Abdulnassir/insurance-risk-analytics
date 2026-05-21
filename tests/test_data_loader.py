@@ -8,5 +8,3 @@ def test_load_data():
     assert df is not None
 
     assert len(df) > 0
-
-
