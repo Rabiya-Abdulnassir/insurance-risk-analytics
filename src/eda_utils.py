@@ -44,3 +44,4 @@ def group_loss_ratio(df, group_col):
         by="LossRatio",
         ascending=False
     )
+
