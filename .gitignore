@@ -2,8 +2,6 @@ __pycache__/
 *.pyc
 .env
 .venv/
-data/
-.dvc/
 .ipynb_checkpoints/
 *.csv
 *.parquet
