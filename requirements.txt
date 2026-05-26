@@ -12,3 +12,6 @@ dvc
 statsmodels
 notebook
 missingno
+plotly
+xgboost
+shap
